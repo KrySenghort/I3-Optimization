@@ -1,0 +1,19 @@
+Formulating LPS
+. A canning company operate two canning plant(A and B)
+. There are three suppliers of fresh fruits:
+  - s1 200 tonnes at 11$/tonne
+  - s2 310 tonnes at 10$/tonne
+  - s3 420 tonnes at 9$/tonne
+ . Shipping costs in $/tonne 
+   from supplier	to plant A	to plant B 
+   s1			3		3.5
+   s2			2		2.6
+   s3			6		4
+Plant capacities and labour cost   
+   			Plant A		Plant B
+   Capacity 	 	460 tonnes	560 tonnes		
+   Labour Cost	 	26$/tonnes	21$/tonnes
+   Selling price	50$/tonnes	no limit
+(a) Find which plant should get how much supply from each grower to maximize the profit.
+(b) Find Dual program.
+
