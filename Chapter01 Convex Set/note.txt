@@ -1,0 +1,2 @@
+============================================================= Keywords using in optimization ==========================================================================
+==> Gradient descent is an algorithm that numerically estimates where a function outputs its lowest values. That means it finds local minima, but not by setting ∇ f =      0 like we've seen before.
